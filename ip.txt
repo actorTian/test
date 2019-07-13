@@ -1,4 +1,4 @@
 {
-"server": "https://server.diyi.cx/api",
-"client": "https://client.diyi.cx"
+"server": "https://server.009899.cn/api",
+"client": "https://client.009899.cn"
 }
