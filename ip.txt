@@ -1,0 +1,4 @@
+{
+"server": "https://server.diyi.cx/api",
+"client": "https://client.diyi.cx"
+}
